@@ -1,0 +1,2 @@
+MediaWiki-Extension-ShoutWiki-InternetDefenceLeague
+===================================================
